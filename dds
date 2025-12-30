@@ -1,0 +1,19 @@
+[33mcommit d03d087172023de0c3d934eb15e9da822bb49ef6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: marcelodanelon <58780939+marcelodanelon@users.noreply.github.com>
+Date:   Tue Dec 30 14:06:02 2025 -0300
+
+    Revert "alterando limite para 100"
+    
+    This reverts commit 1445f48872da202e34b8b672577f3a18437a3dcb.
+
+[33mcommit 1445f48872da202e34b8b672577f3a18437a3dcb[m
+Author: marcelodanelon <58780939+marcelodanelon@users.noreply.github.com>
+Date:   Tue Dec 30 13:40:28 2025 -0300
+
+    alterando limite para 100
+
+[33mcommit bb2ddceae0f74fc56ab3c296323c20a355fa9053[m
+Author: marcelodanelon <58780939+marcelodanelon@users.noreply.github.com>
+Date:   Tue Dec 30 13:02:04 2025 -0300
+
+    projeto inicial
